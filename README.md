@@ -6,10 +6,8 @@ This repository contains the backend for the Vehicle App project. It provides AP
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Dependencies](#dependencies)
-- [Dev Dependencies](#dev-dependencies)
-- [License](#license)
+- [Walkthrough Video](#walkthrough-video)
+
 
 ## Installation
 
