@@ -25,12 +25,15 @@ This repository contains the backend for the Vehicle App project. It provides AP
    ```
    npm install
    ```
-
+   
 ## Usage
 
 ```
 npm run dev
 ```
 
+## Walkthrough Video
+
+Click [here](https://drive.google.com/file/d/1S6c8aFaIMCZ84zV1kEBcVzGMMkEMuYR-/view?usp=sharing) to watch the walkthrough video.
  
 
